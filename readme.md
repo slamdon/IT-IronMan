@@ -6,4 +6,11 @@
 
 ![IT-IronMan](readme/IronMan.gif)
 
-2017.12.08 from [Don](https://ios.devdon.com)
+## 使用方法
+通過 cocoapod 安裝依賴包
+```
+pod install
+```
+
+## 其他
+建立於 2017.12.08 from [Don](https://ios.devdon.com)
