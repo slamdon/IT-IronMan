@@ -1,6 +1,0 @@
-framework module Pods_IT_IronMan {
-  umbrella header "Pods-IT-IronMan-umbrella.h"
-
-  export *
-  module * { export * }
-}
