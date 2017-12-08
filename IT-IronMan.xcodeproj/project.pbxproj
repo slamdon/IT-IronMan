@@ -136,18 +136,9 @@
 		1A77A87E1FD98B7500D2DA38 /* PostList */ = {
 			isa = PBXGroup;
 			children = (
-				1A77A8821FD9938F00D2DA38 /* ViewController */,
 				1A77A8831FD9939400D2DA38 /* Model */,
-				1A77A8841FD9939A00D2DA38 /* View */,
 			);
 			path = PostList;
-			sourceTree = "<group>";
-		};
-		1A77A8821FD9938F00D2DA38 /* ViewController */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewController;
 			sourceTree = "<group>";
 		};
 		1A77A8831FD9939400D2DA38 /* Model */ = {
@@ -156,13 +147,6 @@
 				1A77A8761FD9881700D2DA38 /* PostModel.swift */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		1A77A8841FD9939A00D2DA38 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 		1A77A8881FD9940900D2DA38 /* Members */ = {
